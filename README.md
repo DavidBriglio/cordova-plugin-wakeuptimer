@@ -2,7 +2,7 @@
 
 ## Platform Support
 
-This plugin supports PhoneGap/Cordova apps running on both iOS and Android.
+This plugin supports PhoneGap/Cordova apps running on Android.
 
 ## Version Requirements
 
@@ -10,12 +10,11 @@ This plugin is meant to work with Cordova 3.5.0+.
 
 ## Installation
 
-### Automatic Installation using PhoneGap/Cordova CLI (iOS and Android)
+### Automatic Installation using PhoneGap/Cordova CLI
 
-1) Make sure you update your projects to Cordova iOS version 3.5.0+ before installing this plugin.
+1) Make sure you update your platform before installing this plugin.
 
     ```terminal
-    cordova platform update ios
     cordova platform update android
     ```
 
