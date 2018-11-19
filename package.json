@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-wakeuptimer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This plugin supports PhoneGap/Cordova apps running on Android.",
   "cordova": {
     "id": "cordova-plugin-wakeuptimer",
